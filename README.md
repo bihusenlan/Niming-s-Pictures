@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+倪 明
+   139-5510-7991 | zhouniyao@163.com
+教育经历
+云南师范大学   										   		   	 2015年9月 — 2018年7月
+信息学院算机应用技术(学硕在读)                               					  昆明
+	荣誉：三等奖学金、校级编程大赛三等奖
 
-You can use the [editor on GitHub](https://github.com/bihusenlan/MyResume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+安徽农业大学   									  	   	         2004年9月 — 2008年7月
+经济与管理科学学院(本科)                                      					      合肥
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+专修课程 && 技术文章
+正正正正正正能量、不要消极语气
 
-### Markdown
+需要你精筛出与应聘职位最相关的、最出彩的经验和成就，有重点地展示你足以胜任该工作的相关素养和技能。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+博客园
+GitHub
+翻译过的一些技术文档（OpenGL ES官方文档） 、数篇XX论文
 
-```markdown
-Syntax highlighted code block
+项目经验
+正正正正正正【HR最最看重！】我们更看重的是你先前的一些工作经验或者自己的项目经验，和其他的一些证明自己实力和能力的东西。只看重你的技术水平，你的项目经验
+【Android写酒店】
+用了什么框架、什么技术。
+对于工作的描述，需要详细地介绍自己曾经开发的产品，以及开发这个产品中间用到的一些技术，负责的任务，并且要标明是否带过团队、带团队的规模是多少个人、这个项目的是否自己独立完成、或者两个人协作完成中你所处的角色，这个是非常细节的地方，但是一定要写得清楚一些。
+ 
+ 
+工作单位的名称、职位、具体工作内容的描述（语言、框架、开发平台、在哪里可以看到、如果不能看到就说说实现了什么效果）、工作的开始时间、结束时间、所有做的项目，
+Unity重力球、赛艇、大场景漫游(VR)、碰撞（曲棍球和弹球）
 
-# Header 1
-## Header 2
-### Header 3
+技能
+	编程语言：Java、C#、C++、熟知Unity3D开发环境及各类插件
+	IDE：Visual Studio、Unity3D、Android Studio、Eclipse
+	数据库：SQL Server 2008、MySQL
+	外国语：硕士学位英语(合格)，具备良好的英语阅读能力，具备英语书写以及表达能力
+	理论基础：具备数据结构与常用算法编程基本功，拥有良好的数学和物理基础。
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+	兴趣爱好：跑步、打游戏(尤其是自己写的小游戏)、羽毛球、乒乓球、围棋、象棋、
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bihusenlan/MyResume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+工作期望 && 自我评价
+•	内存与总线通信瓶颈【快与好，渲染快-真实感好】对自己有一个全方位的一个描述总结，让别人更好的解读你。或者在此处，高亮你的优点特长有哪些。
+栗子2正确打开方式
+•	我对自己的定位: 主攻前端,同时在其他方面打打辅助。我不希望过于依赖别人,即使没有后端没有设计没有产品经理,我依然想要把这个产品做到完美。毕竟全栈才能最高效地解决问题。 
+•	我对工作的态度: 第一,要高效完成自己的本职工作。第二,要在完成的基础上寻找完美。第三,要在完美的基础上,与其他同事 互相交流学习,互相提升。工作是一种生活方式,不是一份养家糊口的差事。 
+•	我怎样克服困难: 不用百度是第一原则,在遇到技术问题时我往往会去Google、Stack over flow上寻找答案。但通常很多问题 并不一定已经被人解决,所以熟练地阅读源码、在手册、规范甚至 REPL的环境自己做实验才是最终解决问题的办法。相信事实的结果,自己动手去做。 
+•	怎样保持自己的视野:我一直认为软件开发中视野极其重要,除了在 Twitter 上关注业界大牛,Github Trending 也是每周必刷。 另外 Podcast、Hacker News、Reddit 以及TechRadar 也是重要的一手资料。保持开阔视野才能找到更酷的解决方案。
+•	我的优势: 热爱技术、自学能力强,有良好的自我认知。全面的技能树与开阔的视野,良好的心态、情商与沟通能力。
+•	我的劣势: 非科班出身没有科班同学对算法的熟练掌握,但我决定死磕技术,弥补不足。 
+•     
